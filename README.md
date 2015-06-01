@@ -3,6 +3,8 @@
 ***
 ##### [下载纽约时报中文网 Android APP安装包](https://github.com/chinanyt/apps/raw/master/x/NYTimes_CN_latest.apk)
 
+***
+
 ##### 扫描二维码下载纽约时报中文网 iOS APP
 <img src="https://raw.githubusercontent.com/chinanyt/apps/gh-pages/images/newsapp-iOS.png" alt="扫描二维码下载纽约时报中文网 iOS APP" width="200">
 
